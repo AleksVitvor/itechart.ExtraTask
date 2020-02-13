@@ -1,8 +1,5 @@
 lenth=int(input("Введите длину\n"))
 width=int(input("Введите ширину\n"))
-rectangle=[]
-rectangle.append(lenth)
-rectangle.append(width)
 count=65
 def CutSquare(len, wid, count):
 
